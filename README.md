@@ -16,3 +16,7 @@ keywords tumor growth, finite differences, glioblastoma, radiotherapy, mathemati
 
 [Full Article here](https://doi.org/10.5433/1679-0375.2023.v44.47321) 
 
+![Evolution of the maximum cell concentration
+estimated by the RAD and RD models for the initial
+condition u1.](mConcentracaoMaxDias80X0Ci1D100R0.png)
+
